@@ -6,7 +6,7 @@
   <body>     
     
   
-        >Currently 25
+        >Unemployed
         >Begginner; learning HTML, CSS and Python
         >Likes games & stuff
         >Wants to work with software in the near-medium future
