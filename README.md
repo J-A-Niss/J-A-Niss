@@ -1,17 +1,16 @@
 <head>
-
-  <title>
-          J-A-Niss
-  </title>
+  
+         J_A_Niss
+  
   
   <body>     
     
-    <ul>
+  
         >Currently 25
         >Begginner; learning HTML, CSS and Python
         >Likes games & stuff
         >Wants to work with software in the near-medium future
-    </ul>
+
     
   </body> 
   
